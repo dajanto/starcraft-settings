@@ -16,16 +16,12 @@ CameraSave2=Control+E
 CameraSave3=Control+R
 CameraSave4=Control+A
 CameraSave5=Control+S
-CameraSave6=Control+D
-CameraSave7=Control+F
 CameraView0=F1
 CameraView1=F2
 CameraView2=F3
 CameraView3=F4
 CameraView4=F5
 CameraView5=F6
-CameraView6=F7
-CameraView7=F8
 
 [Commands]
 Hive/Lair=G
