@@ -1,4 +1,5 @@
 [Settings]
+AllowSetConflicts=1
 
 [Hotkeys]
 Sound=
@@ -29,9 +30,10 @@ HydraliskDen/Drone=D
 InfestationPit/Drone=G
 Lair/Hatchery=G
 Land=F
-Larva=S,D,V,Y,R,H,T,C,F,A,E,U
+Larva=S,D,V,Y,Z,R,H,T,C,A,E,U
 Lift=F
 MutateintoLurkerDen/Drone=H
+Rally=
 RallyEgg=BracketClose
 overlordspeed=F
 zerglingmovementspeed/SpawningPool=Q
