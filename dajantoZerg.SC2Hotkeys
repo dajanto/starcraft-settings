@@ -29,6 +29,7 @@ HydraliskDen/Drone=D
 InfestationPit/Drone=G
 Lair/Hatchery=G
 Land=F
+Larva=S,D,V,Y,R,H,T,C,F,A,E,U
 Lift=F
 MutateintoLurkerDen/Drone=H
 RallyEgg=BracketClose
